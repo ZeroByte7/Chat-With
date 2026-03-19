@@ -22,10 +22,13 @@
 ### Termux (Android)
 ```bash
 pkg install python git
-git clone <repo-url>
+git clone https://github.com/ZeroByte7/Chat-With.git
 cd chatwith
 bash install.sh
 chatwith
+
+     (or)
+python3 chatwith.py
 ```
 
 ### Linux / Kali / Ubuntu
