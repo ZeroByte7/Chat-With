@@ -1,5 +1,5 @@
 # ChatWith — Terminal Chat Platform
-**Created by Praveen | NexCore Technologies**
+**Created by Mahasanjai | ZeroByte Technologies**
 
 > Secure · Private · Terminal-First · Works on Termux & Linux
 
@@ -26,7 +26,6 @@ git clone https://github.com/ZeroByte7/Chat-With.git
 cd chatwith
 bash install.sh
 chatwith
-
      (or)
 python3 chatwith.py
 ```
